@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cactuskit"
+version = "0.1.0"
+description = "CactusKIT SDK package"
+readme = "README.md"
+requires-python = ">=3.10"
+
+authors = [
+  { name = "qerdinger", email = "91551241+qerdinger@users.noreply.github.com" }
+]
+
+[project.urls]
+Homepage = "https://github.com/qerdinger/cactuskit"
